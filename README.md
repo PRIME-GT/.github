@@ -1,2 +1,2 @@
-# Perinatal Regionalization Integrated Modeling Effort
+# Perinatal Regionalization Integrated Modeling Effort (PRIME)
 
